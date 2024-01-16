@@ -4,3 +4,7 @@ apenas uma descricao
 navegacao entre telas
 
 um repositorio para estudar os pull requests e as branches
+
+creditos:
+* voce
+* eu
